@@ -1,0 +1,13 @@
+ara-sdk
+elevenlabs
+python-dotenv
+anthropic
+sounddevice
+soundfile
+SpeechRecognition
+fastapi
+uvicorn
+google-api-python-client
+google-auth
+google-auth-oauthlib
+twilio

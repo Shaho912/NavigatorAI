@@ -1,0 +1,27 @@
+# Secrets — never commit
+.env
+
+# Runtime state files
+session_log.json
+processed_emails.json
+sent_reminders.json
+profile.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
