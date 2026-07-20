@@ -36,7 +36,3 @@ Navigator uses an agentic AI workflow to read through a user's healthcare-relate
 ### Status
 
 Navigator was built as a hackathon project focused on proving out the concept, and placed top 5 in the Accessibility category. It's not in active production use, but the core workflow (email parsing to voice call to instruction execution) is fully functional.
-
----
-
-<p align="center"><i>Built to make healthcare admin accessible without a screen.</i></p>
